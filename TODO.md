@@ -1,0 +1,3 @@
+- [ ] Finalizar diagrama do Delta Expert (database e envio para cliente)
+- [ ] Finalizar diagrama de envio para cliente
+- [ ] Adicionar leitura do cache de ultimo horario de execução 
